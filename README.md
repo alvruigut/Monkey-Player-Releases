@@ -81,27 +81,6 @@ Las versiones más recientes se publican directamente en la sección de **Releas
 
 ---
 
-## 🚀 Instalación rápida
-
-### Android
-
-1. Descarga el archivo `Monkey-Player-Android.apk`.
-2. Permite la instalación de aplicaciones desde fuentes externas si Android lo solicita.
-3. Instala el APK.
-4. Añade tu propia lista o tus propias credenciales compatibles.
-
-### Fire TV
-
-Puedes descargar el APK desde el navegador del dispositivo o utilizando una aplicación tipo **Downloader** con el código indicado anteriormente.
-
-### Windows
-
-1. Descarga `Monkey-Player-Windows.exe`.
-2. Ejecuta el instalador o ejecutable.
-3. Configura tus propias listas o credenciales.
-
----
-
 ## ⚖️ Aviso legal
 
 Monkey Player es un software cliente destinado a reproducir contenido proporcionado por el propio usuario mediante fuentes compatibles.
@@ -123,13 +102,6 @@ Cada usuario es responsable de asegurarse de que dispone de los derechos, permis
 
 Monkey Player no pretende facilitar el acceso no autorizado a contenido protegido. El uso de fuentes, listas, servidores o credenciales externas es responsabilidad exclusiva del usuario.
 
----
-
-## 📦 Releases
-
-Consulta siempre la última versión disponible en:
-
-[GitHub Releases - Monkey Player](https://github.com/alvruigut/Monkey-Player-Releases/releases/latest)
 
 ---
 
