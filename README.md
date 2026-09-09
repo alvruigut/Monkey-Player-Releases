@@ -1,6 +1,6 @@
 # 🐵 Monkey Player
 
-**Monkey Player** es una aplicación multimedia compatible con **Xtream Codes** y listas **IPTV / M3U**, diseñada para ofrecer una experiencia cómoda, moderna y personalizable en distintos dispositivos.
+**Monkey Player** es una aplicación multimedia compatible con **Xtream Codes**, diseñada para ofrecer una experiencia cómoda, moderna y personalizable en distintos dispositivos.
 
 > Monkey Player es únicamente un **reproductor / cliente multimedia**.  
 > La aplicación **no incluye, distribuye ni proporciona listas IPTV, canales, películas, series, credenciales o contenido audiovisual de terceros**.
@@ -25,7 +25,6 @@
 
 ---
 
-## 🖼️ Capturas
 
 ### Gestión de listas
 
@@ -62,8 +61,8 @@ Las versiones más recientes se publican directamente en la sección de **Releas
 
 **Downloader**
 
-- Código: `5711692`
-- Enlace: http://aftv.news/5711692
+- Código: `5711692` / `8558351`
+- Enlace: http://aftv.news/5711692 / http://aftv.news/8558351
 
 ---
 
